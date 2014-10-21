@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class Administrator extends Helper{
 	Administrator run;
 	int i =0;
-	
+	//Test github from UI
 	@Test
 	public void admin_test() throws Exception{
 		run = new Administrator();
