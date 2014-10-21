@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class BDE extends Helper {
  
-  @Test    //Git testing
+  @Test    //Git testing t
   public void bde_test() {
 	  helper.openBrowser();
 
