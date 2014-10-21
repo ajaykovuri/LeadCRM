@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class BDE extends Helper {
  
-  @Test    
+  @Test    //test GITHUB hardik
   public void bde_test() {
 	  helper.openBrowser();
 
